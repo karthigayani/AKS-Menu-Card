@@ -1,0 +1,53 @@
+body{
+    margin: 0;
+    padding: 25px;
+    width: 100vw;
+    font-family: 'Alkatra', cursive;
+}
+.res{
+    font-family: 'Bruno Ace SC', cursive;
+    font-style: italic;
+    font-weight: 800;
+    font-size: 130px;
+    letter-spacing: 6px;
+    background: linear-gradient(50deg,#f9d239,#ec6b03,#ec6b03,#f9d239);
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+}
+img{
+    height: 200px;
+    width: 400px;
+}
+table,th,td{
+    border: 2px dotted #986f06;
+    font-size: 24px;
+    border-spacing: 0px;
+}
+h1{
+    color: #c89105;
+    letter-spacing: 4px;
+}
+.subtle,dt{
+    color: #f0b82a;
+    font-size: 21px;
+}
+dd{
+    font-size: 21px; 
+}
+td{
+    align-content: center;
+    align-items: center;
+    padding: 5px;
+    padding-left: 40px;
+    padding-right: 40px;
+}
+.resmenu{
+    padding-left: 45%;
+}
+ul{
+    font-size: 26px;
+}
+.header{
+    justify-content: center;
+    align-items: center;
+}
